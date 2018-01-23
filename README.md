@@ -12,7 +12,7 @@ este se encontrará dentro da pasta target que foi criada a partir da execução
 pasta target ainda pelo terminal e executar o jar gerado, por meio do comando:<br/>
   java -jar access-1.0.0-SNAPSHOT.jar
 
-Este ultimo comando é responsável por executar o projeto compilado, apartir de agora o Access deve estar funcionando<br/>
+Este ultimo comando é responsável por executar o projeto compilado, a partir de agora o Access deve estar funcionando<br/>
 corretamente.
 
 Caso não queira subir o projeto através de linha de comando, basta importar o projeto na sua IDE de preferrência<br/>
